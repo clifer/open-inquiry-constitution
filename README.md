@@ -1,2 +1,7 @@
-# open-inquiry-constitution
-Open Inquiry Constitution — a short, versioned set of principles for evidence-based inquiry. Open to challenge.
+# Open Inquiry Constitution
+
+A short set of principles for open, evidence-based inquiry.
+
+The full text lives in [`CONSTITUTION.md`](CONSTITUTION.md).
+
+This document is versioned and open to challenge. To propose a change, open an issue or pull request.
